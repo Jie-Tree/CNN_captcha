@@ -4,5 +4,6 @@ simple cnn for fixed length captcha
 train:  
        python simple_cnn.py
         
-resul:
+result:
+
       python simple_cnn_predict.py
