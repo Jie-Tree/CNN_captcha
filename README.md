@@ -5,4 +5,4 @@ train:
        python simple_cnn.py
         
 resul:
-       python simple_cnn_predict.py
+      python simple_cnn_predict.py
